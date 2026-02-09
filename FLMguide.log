@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.1.28)  9 FEB 2026 12:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.1.28)  9 FEB 2026 13:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1374,13 +1374,14 @@ s.pdf
 
 pdfTeX warning: pdflatex (file ./figures/panels/failure_mode_images.pdf): PDF i
 nclusion: multiple pdfs with page group included in a single page
->] (./figures/panels/failure_mode_distribution.pdf_tex
-<figures/panels/failure_mode_distribution.pdf, id=261, page=1, 722.7pt x 884.88
-074pt>
-File: figures/panels/failure_mode_distribution.pdf Graphic file (type pdf)
-<use figures/panels/failure_mode_distribution.pdf, page 1>
-Package pdftex.def Info: figures/panels/failure_mode_distribution.pdf , page1 u
-sed on input line 56.
+>] (./figures/panels/failure_mode_distribution_95CI.pdf_tex
+<figures/panels/failure_mode_distribution_95CI.pdf, id=261, page=1, 722.7pt x 8
+84.88074pt>
+File: figures/panels/failure_mode_distribution_95CI.pdf Graphic file (type pdf)
+
+<use figures/panels/failure_mode_distribution_95CI.pdf, page 1>
+Package pdftex.def Info: figures/panels/failure_mode_distribution_95CI.pdf , pa
+ge1 used on input line 56.
 (pdftex.def)             Requested size: 307.20117pt x 376.1436pt.
 )
 Underfull \vbox (badness 3713) has occurred while \output is active []
@@ -1394,7 +1395,7 @@ Overfull \hbox (1.61096pt too wide) has occurred while \output is active
 [] 
  []
 
-[8 <./figures/panels/failure_mode_distribution.pdf>]
+[8 <./figures/panels/failure_mode_distribution_95CI.pdf>]
 (./figures/panels/edge_fracture.pdf_tex
 <figures/panels/edge_fracture.pdf, id=321, page=1, 1146.64604pt x 617.42479pt>
 File: figures/panels/edge_fracture.pdf Graphic file (type pdf)
@@ -1519,7 +1520,7 @@ L3 programming layer <2020/03/25>
  ) 
 Here is how much of TeX's memory you used:
  18673 strings out of 475171
- 288340 string characters out of 5767095
+ 288415 string characters out of 5767095
  684641 words of memory out of 5000000
  41208 multiletter control sequences out of 15000+600000
  661264 words of font info for 251 fonts, out of 8000000 for 9000
@@ -1532,7 +1533,7 @@ X.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/share/tex
 mf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texmf-dist/fonts/type1/
 public/newtx/ztmb.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/ztmr.pfb>
 </usr/share/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on FLMguide.pdf (14 pages, 29404960 bytes).
+Output written on FLMguide.pdf (14 pages, 29420186 bytes).
 PDF statistics:
  530 PDF objects out of 1000 (max. 8388607)
  412 compressed objects within 5 object streams

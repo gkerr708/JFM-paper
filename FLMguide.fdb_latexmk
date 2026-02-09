@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex FLMguide"] 1770654700.9881 "FLMguide.aux" "FLMguide.bbl" "FLMguide" 1770654751.46229 0
+["bibtex FLMguide"] 1770656524.90701 "FLMguide.aux" "FLMguide.bbl" "FLMguide" 1770656526.00753 0
   "./jfm.bst" 1769697170.83204 31797 4905f5a36c36e08bc982133b3dc1d7d2 ""
   "./references.bib" 1769718240.15593 116783 736e3b550085d8a87cf62387ec06239e ""
-  "FLMguide.aux" 1770654751.26442 22454 1c63ce431d1330104fd0fe1728825421 "pdflatex"
+  "FLMguide.aux" 1770656525.786 22454 1c63ce431d1330104fd0fe1728825421 "pdflatex"
   (generated)
   "FLMguide.bbl"
   "FLMguide.blg"
   (rewritten before read)
-["pdflatex"] 1770654750.4552 "FLMguide.tex" "FLMguide.pdf" "FLMguide" 1770654751.46251 0
+["pdflatex"] 1770656524.97463 "FLMguide.tex" "FLMguide.pdf" "FLMguide" 1770656526.00781 0
   "/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf-pc.enc" 1767555874 2211 c42193888177bc8f86d55dca129a9358 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1767555874 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1767555874 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -179,9 +179,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1767555874 42087 b0f9697c952c8f5a8eede4134282cb0d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1769621155 5306876 69c328245ae101f6bc10b01e1f2bf9d5 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1769621125 2008250 4bda348e521cade5f7839f08763bddc2 ""
-  "FLMguide.aux" 1770654751.26442 22454 1c63ce431d1330104fd0fe1728825421 "pdflatex"
-  "FLMguide.bbl" 1770654701.04077 11291 e568687229834170d40cf58eb624c08a "bibtex FLMguide"
-  "FLMguide.tex" 1770654692.63071 42699 dbb92336c3c8048e5a6800239c76f12e ""
+  "FLMguide.aux" 1770656525.786 22454 1c63ce431d1330104fd0fe1728825421 "pdflatex"
+  "FLMguide.bbl" 1770656524.966 11291 e568687229834170d40cf58eb624c08a "bibtex FLMguide"
+  "FLMguide.tex" 1770656520.20263 42704 c762234a67517f08fdef7f943c3941c3 ""
   "JFM-FLM_Au.cls" 1769697170.82871 77883 3c186eafc5523bfaca542e040d306b68 ""
   "figures/panels/box_plots.pdf" 1769715894.69182 281692 3f1175a79facee785320c1a684efbb53 ""
   "figures/panels/box_plots.pdf_tex" 1769715894.69182 2475 b77f98b34ecd07483b2a325c481c7a26 ""
@@ -189,8 +189,8 @@
   "figures/panels/diameter_trace.pdf_tex" 1769716306.64429 2563 278dcdae1dc660a72c8f6c0eee6f3acd ""
   "figures/panels/edge_fracture.pdf" 1769714343.89937 11149576 1ca0965684165621c1e7842b4770a32e ""
   "figures/panels/edge_fracture.pdf_tex" 1769714496.59691 3295 96f74bb5477594dd522f7f22770eac68 ""
-  "figures/panels/failure_mode_distribution.pdf" 1770654178.80388 539129 b86add4d764a4bdc781508d88d71ed0f ""
-  "figures/panels/failure_mode_distribution.pdf_tex" 1770654746.86773 3289 f7dc034e12d2a8696009675fd24ae66c ""
+  "figures/panels/failure_mode_distribution_95CI.pdf" 1770656408.86195 554351 ddd4bb9eb895eb3760b4b04b01f350c4 ""
+  "figures/panels/failure_mode_distribution_95CI.pdf_tex" 1770656509.3959 3299 8d55a33732cb32cb2e8b8fb3784116b1 ""
   "figures/panels/failure_mode_images.pdf" 1769711300.02797 16742496 05ab045c0bd3f1106a73adfcf3adbb9e ""
   "figures/panels/failure_mode_images.pdf_tex" 1769712042.48588 4212 06e8082f93e6fe7932d893de13299a4c ""
   "figures/panels/viscosity_figure.pdf" 1769705662.99401 244876 8a27fb2c715ca0857849e4b0596221ee ""
