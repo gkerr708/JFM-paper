@@ -1,0 +1,211 @@
+\begin{thebibliography}{29}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\def\au#1{#1} \def\ed#1{#1} \def\yr#1{#1}\def\at#1{#1}\def\jt#1{\textit{#1}}
+  \def\bt#1{#1}\def\bvol#1{\textbf{#1}} \def\vol#1{#1} \def\pg#1{#1}
+  \def\publ#1{#1}\def\arxiv#1{#1}\def\org#1{#1}\def\st#1{\textit{#1}}
+
+\bibitem[Argos {\em et~al.\/}(1982)Argos, Pedersen, Marks \&
+  Larkins]{argos_structural_1982}
+{\sc \au{Argos, P.}, \au{Pedersen, K.}, \au{Marks, M.~D.} \& \au{Larkins,
+  B.~A.}} \yr{1982}  \at{A structural model for maize zein proteins.}
+  \jt{Journal of Biological Chemistry}  \bvol{257}~(17),  \pg{9984--9990},
+  publisher: Elsevier.
+
+\bibitem[Barnes(2000)]{barnes_handbook_2000}
+{\sc \au{Barnes, Howard~A.}} \yr{2000} {\em A handbook of elementary
+  rheology\/}, ,  \vol{vol.~1}.  \publ{University of Wales, Institute of
+  Non-Newtonian Fluid Mechanics Aberystwyth}.
+
+\bibitem[Brum {\em et~al.\/}(2025)Brum, Paganotto, Marques, Valério~Filho,
+  Balboni, Jansen-Alves, Bueno, Pereira, Zavareze, Raubach \&
+  Carreno]{brum_facile_2025}
+{\sc \au{Brum, Darwin de~O.}, \au{Paganotto, Gian F.~R.}, \au{Marques,
+  Viviane~G.}, \au{Valério~Filho, Alaor}, \au{Balboni, Raphael D.~C.},
+  \au{Jansen-Alves, Cristina}, \au{Bueno, Danielle~T.}, \au{Pereira, Claudio
+  M.~P.}, \au{Zavareze, Elessandra da~R.}, \au{Raubach, Cristiane~W.} \&
+  \au{Carreno, Neftali L.~V.}} \yr{2025}  \at{Facile single-step synthesis of
+  centrifugally spun zein fibers encapsulating housefly oil}.
+  \jt{International Journal of Biological Macromolecules}  \bvol{306},
+  \pg{141651}.
+
+\bibitem[Chan {\em et~al.\/}(2023)Chan, Varchanis, Shen \&
+  Haward]{chan_edge_2023}
+{\sc \au{Chan, San~To}, \au{Varchanis, Stylianos}, \au{Shen, Amy~Q} \&
+  \au{Haward, Simon~J}} \yr{2023}  \at{Edge fracture of thixotropic
+  elastoviscoplastic liquid bridges}.  \jt{PNAS Nexus}  \bvol{2}~(3),
+  \pg{pgad042}.
+
+\bibitem[Cho \& Priya(2011)]{cho_synthesis_2011}
+{\sc \au{Cho, Kyung-Hoon} \& \au{Priya, Shashank}} \yr{2011}  \at{Synthesis of
+  ferroelectric {PZT} fibers using sol–gel technique}.  \jt{Materials
+  Letters}  \bvol{65}~(4),  \pg{775--779}.
+
+\bibitem[Chowdhry {\em et~al.\/}(2021)Chowdhry, Ming Chang, P. Frampton \&
+  Kreplak]{chowdhry_polymer_2021}
+{\sc \au{Chowdhry, Gurkaran}, \au{Ming Chang, Yi}, \au{P. Frampton, John} \&
+  \au{Kreplak, Laurent}} \yr{2021}  \at{Polymer entanglement drives formation
+  of fibers from stable liquid bridges of highly viscous dextran solutions}.
+  \jt{Soft Matter}  \bvol{17}~(7),  \pg{1873--1880}, publisher: Royal Society
+  of Chemistry.
+
+\bibitem[Colby(2010)]{colby_structure_2010}
+{\sc \au{Colby, Ralph~H.}} \yr{2010}  \at{Structure and linear viscoelasticity
+  of flexible polymer solutions: comparison of polyelectrolyte and neutral
+  polymer solutions}.  \jt{Rheologica Acta}  \bvol{49}~(5),  \pg{425--442}.
+
+\bibitem[Colby(2023)]{colby_fiber_2023}
+{\sc \au{Colby, Ralph~H.}} \yr{2023}  \at{Fiber spinning from polymer
+  solutions}.  \jt{Journal of Rheology}  \bvol{67}~(6),  \pg{1251--1255}.
+
+\bibitem[Coriell {\em et~al.\/}(1977)Coriell, Hardy \&
+  Cordes]{coriell_stability_1977}
+{\sc \au{Coriell, S.~R.}, \au{Hardy, S.~C.} \& \au{Cordes, M.~R.}} \yr{1977}
+  \at{Stability of liquid zones}.  \jt{Journal of Colloid and Interface
+  Science}  \bvol{60}~(1),  \pg{126--136}.
+
+\bibitem[Cui {\em et~al.\/}(2022)Cui, Liang, Li, Zhou, Chen, Liu \&
+  Li]{cui_development_2022}
+{\sc \au{Cui, Bing}, \au{Liang, Hongshan}, \au{Li, Jing}, \au{Zhou, Bin},
+  \au{Chen, Wenxin}, \au{Liu, Jiao} \& \au{Li, Bin}} \yr{2022}  \at{Development
+  and characterization of edible plant-based fibers using a wet-spinning
+  technique}.  \jt{Food Hydrocolloids}  \bvol{133},  \pg{107965}.
+
+\bibitem[Dinic \& Sharma(2019)]{dinic_macromolecular_2019}
+{\sc \au{Dinic, Jelena} \& \au{Sharma, Vivek}} \yr{2019}  \at{Macromolecular
+  relaxation, strain, and extensibility determine elastocapillary thinning and
+  extensional viscosity of polymer solutions}.  \jt{Proceedings of the National
+  Academy of Sciences}  \bvol{116}~(18),  \pg{8766--8774}.
+
+\bibitem[Frampton {\em et~al.\/}(2015)Frampton, Lai, Lounds, Chung, Kim,
+  Mansfield \& Takayama]{frampton_elongation_2015}
+{\sc \au{Frampton, John~P.}, \au{Lai, David}, \au{Lounds, Maxwell}, \au{Chung,
+  Kyeongwoon}, \au{Kim, Jinsang}, \au{Mansfield, John~F.} \& \au{Takayama,
+  Shuichi}} \yr{2015}  \at{Elongation of {Fibers} from {Highly} {Viscous}
+  {Dextran} {Solutions} {Enables} {Fabrication} of {Rapidly} {Dissolving}
+  {Drug} {Carrying} {Fabrics}}.  \jt{Advanced Healthcare Materials}
+  \bvol{4}~(2),  \pg{313--319}, \_eprint:
+  https://onlinelibrary.wiley.com/doi/pdf/10.1002/adhm.201400287.
+
+\bibitem[Kim \& Xu(2008)]{kim_aggregate_2008}
+{\sc \au{Kim, S.} \& \au{Xu, J.}} \yr{2008}  \at{Aggregate formation of zein
+  and its structural inversion in aqueous ethanol}.  \jt{Journal of Cereal
+  Science}  \bvol{47}~(1),  \pg{1--5}.
+
+\bibitem[Larson \& Wei(2019)]{larson_review_2019}
+{\sc \au{Larson, Ronald~G.} \& \au{Wei, Yufei}} \yr{2019}  \at{A review of
+  thixotropy and its rheological modeling}.  \jt{Journal of Rheology}
+  \bvol{63}~(3),  \pg{477--501}.
+
+\bibitem[McKinley \& Tripathi(2000)]{mckinley_how_2000}
+{\sc \au{McKinley, Gareth~H.} \& \au{Tripathi, Anubhav}} \yr{2000}  \at{How to
+  extract the {Newtonian} viscosity from capillary breakup measurements in a
+  filament rheometer}.  \jt{Journal of Rheology}  \bvol{44}~(3),
+  \pg{653--670}.
+
+\bibitem[Meseguer {\em et~al.\/}(1995)Meseguer, Slobozhanin \&
+  Perales]{meseguer_review_1995}
+{\sc \au{Meseguer, J}, \au{Slobozhanin, L.~A} \& \au{Perales, J.~M}} \yr{1995}
+  \at{A review on the stability of liquid bridges}.  \jt{Advances in Space
+  Research}  \bvol{16}~(7),  \pg{5--14}.
+
+\bibitem[Morozova {\em et~al.\/}(2018)Morozova, Schmidt, Metaxas, Bates, Lodge
+  \& Dutcher]{morozova_extensional_2018}
+{\sc \au{Morozova, Svetlana}, \au{Schmidt, Peter~W.}, \au{Metaxas, Athena},
+  \au{Bates, Frank~S.}, \au{Lodge, Timothy~P.} \& \au{Dutcher, Cari~S.}}
+  \yr{2018}  \at{Extensional {Flow} {Behavior} of {Methylcellulose} {Solutions}
+  {Containing} {Fibrils}}.  \jt{ACS Macro Letters}  \bvol{7}~(3),
+  \pg{347--352}, publisher: American Chemical Society.
+
+\bibitem[Ni {\em et~al.\/}(2022)Ni, Zhu, Ji, He, Fu, Yang \&
+  Wang]{ni_biomimetic_2022}
+{\sc \au{Ni, Zhuxi}, \au{Zhu, Zhiwei}, \au{Ji, Yuan}, \au{He, Xuewei}, \au{Fu,
+  Xuewei}, \au{Yang, Wei} \& \au{Wang, Yu}} \yr{2022}  \at{Biomimetic
+  {Microadhesion} {Guided} {Instant} {Spinning}}.  \jt{Nano Letters}
+  \bvol{22}~(23),  \pg{9396--9404}, publisher: American Chemical Society.
+
+\bibitem[Okuzono {\em et~al.\/}(2006)Okuzono, Ozawa \&
+  Doi]{okuzono_simple_2006}
+{\sc \au{Okuzono, Tohru}, \au{Ozawa, Kin’ya} \& \au{Doi, Masao}} \yr{2006}
+  \at{Simple {Model} of {Skin} {Formation} {Caused} by {Solvent} {Evaporation}
+  in {Polymer} {Solutions}}.  \jt{Physical Review Letters}  \bvol{97}~(13),
+  \pg{136103}, publisher: American Physical Society.
+
+\bibitem[Parent {\em et~al.\/}(2018)Parent, Onofrei, Xu, Stengel, Roehling,
+  Addison, Forman, Amin, Cherry, Yarger, Gianneschi \&
+  Holland]{parent_hierarchical_2018}
+{\sc \au{Parent, Lucas~R.}, \au{Onofrei, David}, \au{Xu, Dian}, \au{Stengel,
+  Dillan}, \au{Roehling, John~D.}, \au{Addison, J.~Bennett}, \au{Forman,
+  Christopher}, \au{Amin, Samrat~A.}, \au{Cherry, Brian~R.}, \au{Yarger,
+  Jeffery~L.}, \au{Gianneschi, Nathan~C.} \& \au{Holland, Gregory~P.}}
+  \yr{2018}  \at{Hierarchical spidroin micellar nanoparticles as the
+  fundamental precursors of spider silks}.  \jt{Proceedings of the National
+  Academy of Sciences}  \bvol{115}~(45),  \pg{11507--11512}, publisher:
+  Proceedings of the National Academy of Sciences.
+
+\bibitem[Rahman {\em et~al.\/}(2023)Rahman, Dip, Haase, Truong, Le \&
+  Houshyar]{rahman_fabrication_2023}
+{\sc \au{Rahman, Mustafijur}, \au{Dip, Tanvir~Mahady}, \au{Haase, Tina},
+  \au{Truong, Yen~Bach}, \au{Le, Tu~C.} \& \au{Houshyar, Shadi}} \yr{2023}
+  \at{Fabrication of {Zein}-{Based} {Fibrous} {Scaffolds} for {Biomedical}
+  {Applications}—{A} {Review}}.  \jt{Macromolecular Materials and
+  Engineering}  \bvol{308}~(12),  \pg{2300175}, \_eprint:
+  https://onlinelibrary.wiley.com/doi/pdf/10.1002/mame.202300175.
+
+\bibitem[Shukla \& Cheryan(2001)]{shukla_zein_2001}
+{\sc \au{Shukla, Rishi} \& \au{Cheryan, Munir}} \yr{2001}  \at{Zein: the
+  industrial protein from corn}.  \jt{Industrial Crops and Products}
+  \bvol{13}~(3),  \pg{171--192}.
+
+\bibitem[Sparkes \& Holland(2017)]{sparkes_analysis_2017}
+{\sc \au{Sparkes, James} \& \au{Holland, Chris}} \yr{2017}  \at{Analysis of the
+  pressure requirements for silk spinning reveals a pultrusion dominated
+  process}.  \jt{Nature Communications}  \bvol{8}~(1),  \pg{594}, publisher:
+  Nature Publishing Group.
+
+\bibitem[Thomas(1804)]{thomas_iii_1804}
+{\sc \au{Thomas, Young}} \yr{1804}  \at{{III}. {An} essay on the cohesion of
+  fluids}.  \jt{The Royal Society} .
+
+\bibitem[Uzun {\em et~al.\/}(2017)Uzun, Ilavsky \&
+  Wild Padua]{uzun_characterization_2017}
+{\sc \au{Uzun, Suzan}, \au{Ilavsky, Jan} \& \au{Wild Padua, Graciela}}
+  \yr{2017}  \at{Characterization of zein assemblies by ultra-small-angle
+  {X}-ray scattering}.  \jt{Soft Matter}  \bvol{13}~(16),  \pg{3053--3060},
+  publisher: Royal Society of Chemistry.
+
+\bibitem[Verma {\em et~al.\/}(2023)Verma, Yaghoobi, Kreplak \&
+  Frampton]{verma_nonwoven_2023}
+{\sc \au{Verma, Surendra~Kumar}, \au{Yaghoobi, Hessameddin}, \au{Kreplak,
+  Laurent} \& \au{Frampton, John~P.}} \yr{2023}  \at{Nonwoven {Hemostatic}
+  {Dressings} {Formed} by {Contact} {Drawing} of {Interposed} {Polyethylene}
+  {Oxide} ({PEO})-{Fibrinogen} and {PEO}-{Thrombin} {Microfibers}}.
+  \jt{Advanced Materials Interfaces}  \bvol{10}~(4),  \pg{2202119}, \_eprint:
+  https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202202119.
+
+\bibitem[Verma {\em et~al.\/}(2022)Verma, Yaghoobi, Slaine, Baldwin, Rainey,
+  Kreplak \& Frampton]{verma_multi-pin_2022}
+{\sc \au{Verma, Surendra~Kumar}, \au{Yaghoobi, Hessameddin}, \au{Slaine,
+  Patrick}, \au{Baldwin, Samuel~J.}, \au{Rainey, Jan~K.}, \au{Kreplak, Laurent}
+  \& \au{Frampton, John~P.}} \yr{2022}  \at{Multi-pin contact drawing enables
+  production of anisotropic collagen fiber substrates for alignment of
+  fibroblasts and monocytes}.  \jt{Colloids and Surfaces B: Biointerfaces}
+  \bvol{215},  \pg{112525}.
+
+\bibitem[Visser {\em et~al.\/}(2022)Visser, Verma, Rainey \&
+  Frampton]{visser_loading_2022}
+{\sc \au{Visser, Zachary~B.}, \au{Verma, Surendra~Kumar}, \au{Rainey, Jan~K.}
+  \& \au{Frampton, John~P.}} \yr{2022}  \at{Loading and {Release} of
+  {Quercetin} from {Contact}-{Drawn} {Polyvinyl} {Alcohol} {Fiber}
+  {Scaffolds}}.  \jt{ACS Pharmacology \& Translational Science}  \bvol{5}~(12),
+   \pg{1305--1317}, publisher: American Chemical Society.
+
+\bibitem[Yaghoobi {\em et~al.\/}(2023)Yaghoobi, Clarke, Kerr, Frampton \&
+  Kreplak]{yaghoobi_multifilament_2023}
+{\sc \au{Yaghoobi, Hessameddin}, \au{Clarke, Alison}, \au{Kerr, Gavin},
+  \au{Frampton, John} \& \au{Kreplak, Laurent}} \yr{2023}  \at{Multifilament
+  {Collagen} {Fiber} {Bundles} with {Tendon}-like {Structure} and {Mechanical}
+  {Performance}}.  \jt{Macromolecular Rapid Communications}  \bvol{44}~(18),
+  \pg{2300204}, \_eprint:
+  https://onlinelibrary.wiley.com/doi/pdf/10.1002/marc.202300204.
+
+\end{thebibliography}
