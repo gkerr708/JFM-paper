@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.1.28)  9 FEB 2026 13:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.1.28)  17 FEB 2026 17:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1452,13 +1452,40 @@ ion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./figures/panels/box_plots.pdf): PDF inclusion: 
 multiple pdfs with page group included in a single page
 >]
+<figures/cone_analysis/time_by_etoh_90.png, id=419, 708.0051pt x 202.1151pt>
+File: figures/cone_analysis/time_by_etoh_90.png Graphic file (type png)
+<use figures/cone_analysis/time_by_etoh_90.png>
+Package pdftex.def Info: figures/cone_analysis/time_by_etoh_90.png  used on inp
+ut line 267.
+(pdftex.def)             Requested size: 268.79883pt x 76.7336pt.
+<figures/cone_analysis/shade_bar.png, id=421, 419.166pt x 46.9755pt>
+File: figures/cone_analysis/shade_bar.png Graphic file (type png)
+<use figures/cone_analysis/shade_bar.png>
+Package pdftex.def Info: figures/cone_analysis/shade_bar.png  used on input lin
+e 268.
+(pdftex.def)             Requested size: 96.0pt x 10.75826pt.
+ (./figures/panels/cod_figure.pdf_tex
+<figures/panels/cod_figure.pdf, id=427, page=1, 1644.56926pt x 569.05513pt>
+File: figures/panels/cod_figure.pdf Graphic file (type pdf)
+<use figures/panels/cod_figure.pdf, page 1>
+Package pdftex.def Info: figures/panels/cod_figure.pdf , page1 used on input li
+ne 56.
+(pdftex.def)             Requested size: 268.79883pt x 93.00436pt.
+<figures/panels/cod_figure.pdf, id=428, page=2, 1644.56926pt x 569.05513pt>
+File: figures/panels/cod_figure.pdf Graphic file (type pdf)
+<use figures/panels/cod_figure.pdf, page 2>
+Package pdftex.def Info: figures/panels/cod_figure.pdf , page2 used on input li
+ne 58.
+(pdftex.def)             Requested size: 268.79883pt x 93.00436pt.
+)
 
 
 Overfull \hbox (1.61096pt too wide) has occurred while \output is active
 [] 
  []
 
-[12] (./FLMguide.bbl
+[12 <./figures/cone_analysis/time_by_etoh_90.png> <./figures/cone_analysis/shad
+e_bar.png>] (./FLMguide.bbl
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 8.73pt on input line 1.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
@@ -1470,11 +1497,13 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 8.73pt on input line 11.
 
-Underfull \vbox (badness 1270) has occurred while \output is active []
 
+[13{/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf-pc.enc} <./figures/
+panels/cod_figure.pdf> <./figures/panels/cod_figure.pdf
 
-
-[13{/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf-pc.enc}]
+pdfTeX warning: pdflatex (file ./figures/panels/cod_figure.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>]
 Underfull \hbox (badness 2469) in paragraph at lines 147--153
 []\OT1/ntxtlf/m/sc/8.73 Rahman, Mustafi-jur, Dip, Tan-vir Ma-hady, Haase, Tina,
  Truong, Yen Bach, Le, Tu C.
@@ -1519,10 +1548,10 @@ L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 18673 strings out of 475171
- 288415 string characters out of 5767095
- 684641 words of memory out of 5000000
- 41208 multiletter control sequences out of 15000+600000
+ 18705 strings out of 475171
+ 289708 string characters out of 5767095
+ 684653 words of memory out of 5000000
+ 41237 multiletter control sequences out of 15000+600000
  661264 words of font info for 251 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  95i,14n,131p,3734b,596s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1533,10 +1562,10 @@ X.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/share/tex
 mf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texmf-dist/fonts/type1/
 public/newtx/ztmb.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/ztmr.pfb>
 </usr/share/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on FLMguide.pdf (14 pages, 29420186 bytes).
+Output written on FLMguide.pdf (14 pages, 35955202 bytes).
 PDF statistics:
- 530 PDF objects out of 1000 (max. 8388607)
- 412 compressed objects within 5 object streams
+ 555 PDF objects out of 1000 (max. 8388607)
+ 424 compressed objects within 5 object streams
  66 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 133 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -54,8 +54,8 @@
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{box_plots.pdf}}%
-    \put(0.01048727,0.90392646){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(A)\end{tabular}}}}%
-    \put(0.01048727,0.61830398){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(B)\end{tabular}}}}%
-    \put(0.01099732,0.3306668){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(C)\end{tabular}}}}%
+    \put(0.00648727,0.90392646){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(A)\end{tabular}}}}%
+    \put(0.00648727,0.61830398){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(B)\end{tabular}}}}%
+    \put(0.00699732,0.3306668){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(C)\end{tabular}}}}%
   \end{picture}%
 \endgroup%
