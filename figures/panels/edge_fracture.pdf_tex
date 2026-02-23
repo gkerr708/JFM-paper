@@ -57,7 +57,7 @@
     \put(0,0){\includegraphics[width=\unitlength,page=1]{edge_fracture.pdf}}%
     \put(0.16138148,0.30242626){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}t = 1.87 s\end{tabular}}}}%
     \put(0.41453945,0.30242626){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}t = 1.89 s\end{tabular}}}}%
-    \put(0.6678235,0.30231597){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}t = 1.90 s\end{tabular}}}}%
+    \put(0.6678235,0.302315970){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}t = 1.90 s\end{tabular}}}}%
     \put(0.92085538,0.30242626){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}t = 1.91 s\end{tabular}}}}%
     \put(0.16138148,0.02688861){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}t = 1.93 s\end{tabular}}}}%
     \put(0.41453945,0.02688861){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}t = 2.01 s\end{tabular}}}}%

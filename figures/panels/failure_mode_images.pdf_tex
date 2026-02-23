@@ -70,8 +70,8 @@
     \put(0.65512556,0.46739258){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}t = 1.01 s\end{tabular}}}}%
     \put(0.90711939,0.46739258){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}t = 2.60 s\end{tabular}}}}%
 	\normalsize
-    \put(0.00807406,0.59379517){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(A)\end{tabular}}}}%
-    \put(0.00807406,0.36911732){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(B)\end{tabular}}}}%
-    \put(0.00807406,0.14431069){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(C)\end{tabular}}}}%
+    \put(-0.05807406,0.63379517){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(A)\end{tabular}}}}%
+    \put(-0.05807406,0.40911732){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(B)\end{tabular}}}}%
+    \put(-0.05807406,0.18431069){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(C)\end{tabular}}}}%
   \end{picture}%
 \endgroup%

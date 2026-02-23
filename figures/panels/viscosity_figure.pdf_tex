@@ -54,9 +54,9 @@
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{viscosity_figure.pdf}}%
-    \put(0.06369444,0.81510800){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(A)\end{tabular}}}}%
-    \put(0.55008837,0.81516243){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(B)\end{tabular}}}}%
-    \put(0.05356124,0.41707214){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(C)\end{tabular}}}}%
-    \put(0.54574559,0.41996735){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(D)\end{tabular}}}}%
+    \put(0.0235,0.8151){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(A)\end{tabular}}}}%
+    \put(0.5200,0.8151){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(B)\end{tabular}}}}%
+    \put(0.0235,0.4179){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(C)\end{tabular}}}}%
+    \put(0.5200,0.4179){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(D)\end{tabular}}}}%
   \end{picture}%
 \endgroup%
