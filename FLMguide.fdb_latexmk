@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex FLMguide"] 1771510735.7824 "FLMguide.aux" "FLMguide.bbl" "FLMguide" 1771866150.53621 0
+["bibtex FLMguide"] 1772039874.96387 "FLMguide.aux" "FLMguide.bbl" "FLMguide" 1772039876.41895 0
   "./jfm.bst" 1769697170.83204 31797 4905f5a36c36e08bc982133b3dc1d7d2 ""
   "./references.bib" 1769718240.15593 116783 736e3b550085d8a87cf62387ec06239e ""
-  "FLMguide.aux" 1771866150.3186 22648 697abc3fc1cf422d7be9b5e91c6043e8 "pdflatex"
+  "FLMguide.aux" 1772039876.19891 22176 be9e96cd2643b9c203767cf768c0bea5 "pdflatex"
   (generated)
   "FLMguide.bbl"
   "FLMguide.blg"
   (rewritten before read)
-["pdflatex"] 1771866149.25053 "FLMguide.tex" "FLMguide.pdf" "FLMguide" 1771866150.53642 0
+["pdflatex"] 1772039875.04701 "FLMguide.tex" "FLMguide.pdf" "FLMguide" 1772039876.41914 0
   "/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf-pc.enc" 1767555874 2211 c42193888177bc8f86d55dca129a9358 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1767555874 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1767555874 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -179,9 +179,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1767555874 42087 b0f9697c952c8f5a8eede4134282cb0d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1769621155 5306876 69c328245ae101f6bc10b01e1f2bf9d5 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1769621125 2008250 4bda348e521cade5f7839f08763bddc2 ""
-  "FLMguide.aux" 1771866150.3186 22648 697abc3fc1cf422d7be9b5e91c6043e8 "pdflatex"
-  "FLMguide.bbl" 1771510735.84791 11291 e568687229834170d40cf58eb624c08a "bibtex FLMguide"
-  "FLMguide.tex" 1771618897.52293 42951 8b122e0885022539f90a72b89307ede7 ""
+  "FLMguide.aux" 1772039876.19891 22176 be9e96cd2643b9c203767cf768c0bea5 "pdflatex"
+  "FLMguide.bbl" 1772039875.03891 11291 e568687229834170d40cf58eb624c08a "bibtex FLMguide"
+  "FLMguide.tex" 1772039866.03219 42418 2949cc6634602c549f860e2e8f532f6d ""
   "JFM-FLM_Au.cls" 1769697170.82871 77883 3c186eafc5523bfaca542e040d306b68 ""
   "figures/cone_analysis/shade_bar.png" 1769696573.23852 12580 9ec8f090eb380560bd30e041056ea613 ""
   "figures/cone_analysis/time_by_etoh_90.png" 1769696573.24186 129601 2f3cc93c8a57a02841a0f48030b47eca ""
@@ -192,7 +192,7 @@
   "figures/panels/diameter_trace.pdf" 1769716306.64429 232053 39660ec26ae079c8f6ed24c640102cc7 ""
   "figures/panels/diameter_trace.pdf_tex" 1769716306.64429 2563 278dcdae1dc660a72c8f6c0eee6f3acd ""
   "figures/panels/edge_fracture.pdf" 1771866030.94786 11143986 7382d1d986296fd9e0090a71641eb6c3 ""
-  "figures/panels/edge_fracture.pdf_tex" 1771866147.52191 3296 b332862bce98d13dc8145d9c4e62fdd8 ""
+  "figures/panels/edge_fracture.pdf_tex" 1771866267.10265 3296 b332862bce98d13dc8145d9c4e62fdd8 ""
   "figures/panels/failure_mode_distribution_95CI.pdf" 1770656408.86195 554351 ddd4bb9eb895eb3760b4b04b01f350c4 ""
   "figures/panels/failure_mode_distribution_95CI.pdf_tex" 1770656509.3959 3299 8d55a33732cb32cb2e8b8fb3784116b1 ""
   "figures/panels/failure_mode_images.pdf" 1771865757.57284 16740872 037937f159025bec4e7364a41672f871 ""
