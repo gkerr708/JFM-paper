@@ -13,7 +13,7 @@
     
 
 ### Potential Editors
-* **Jeff Morris**
+* **Jeff Morris** (BEST!)
     * Would be my **first choice**.
     * Director, Levich Institute & Professor of Chemical Engineering, City College of New York
     * Recent paper on rheology of chocolate (experimental)
@@ -31,13 +31,13 @@
 
 * Full list of editors: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/information/about-this-journal/editorial-board
 
-Dear Prof. ...
+Dear Prof. Morris
 
 Enclosed please find a manuscript entitled "Liquid Bridge Stabilization by Surface Skin Formation Enables Contact Drawing of Protein Microfibres" by Gavin A. Kerr, Grace O'Connor, Grecia Valeria Sanchez Ruiz, Hessam Yaghoobi Koopaee and Laurent Kreplak, which we would like you to consider for publication as a full article in the Journal of Fluid Mechanics.
 
 In this work, we we investigate the process by which long lasting liquid bridges can be stabilized to form useful protein fibers. In prior work, fluids containing high molecular weight polymers have been shown to form microfibers from a liquid bridge. This processes works due to the long relaxation times of the polymer material. In our work we show that a similar process occurs for protein solutions, however a different mechanism is proposed to account for the lower molecular weight of the proteins (*why does this matter?*).
 
-The additional mechanism is skin formation occurring over a time scale on the same order of the time over which the liquid bridge is formed; approximately one second or less. In stead of viscoelastic stress from the bulk resisting capillary thinning over times scales much much longer than the pull, the fast forming skin acks like a viscoelastic solid which resists capillary thinning and allows the liquid bridge to be pulled into a long fiber. 
-We explore how protein concentration, drawing times and solvent volatility affect the evolution of the liquid bridge.
+The additional mechanism is skin formation occurring over a time scale on the same order of the time over which the liquid bridge is formed; approximately one second or less. In stead of viscoelastic stress from the bulk resisting capillary thinning over times scales much much longer than the pull, the fast forming skin acts like a viscoelastic solid which resists capillary thinning and allows the liquid bridge to be pulled into a long fiber. 
+Cone imaging is used to explore how protein concentration, drawing times and solvent volatility affect the evolution of the liquid bridge.
 We believe that this work will be of interest to the readers of JFM as it explores phenomena more closely related to areas such as extensional rheology and leverages it to explore phenomena related to fiber formation.
 
