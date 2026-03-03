@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex FLMguide"] 1772039874.96387 "FLMguide.aux" "FLMguide.bbl" "FLMguide" 1772558699.56158 0
+["bibtex FLMguide"] 1772559613.63065 "FLMguide.aux" "FLMguide.bbl" "FLMguide" 1772559825.38257 0
   "./jfm.bst" 1769697170.83204 31797 4905f5a36c36e08bc982133b3dc1d7d2 ""
   "./references.bib" 1769718240.15593 116783 736e3b550085d8a87cf62387ec06239e ""
-  "FLMguide.aux" 1772558699.35499 22176 be9e96cd2643b9c203767cf768c0bea5 "pdflatex"
+  "FLMguide.aux" 1772559825.14329 22176 68e3f9e28c490f9a7775369664c0443e "pdflatex"
   (generated)
   "FLMguide.bbl"
   "FLMguide.blg"
   (rewritten before read)
-["pdflatex"] 1772558698.27423 "FLMguide.tex" "FLMguide.pdf" "FLMguide" 1772558699.56178 0
+["pdflatex"] 1772559824.01506 "FLMguide.tex" "FLMguide.pdf" "FLMguide" 1772559825.38273 0
   "/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf-pc.enc" 1767555874 2211 c42193888177bc8f86d55dca129a9358 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1767555874 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1767555874 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -179,9 +179,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1767555874 42087 b0f9697c952c8f5a8eede4134282cb0d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1769621155 5306876 69c328245ae101f6bc10b01e1f2bf9d5 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1769621125 2008250 4bda348e521cade5f7839f08763bddc2 ""
-  "FLMguide.aux" 1772558699.35499 22176 be9e96cd2643b9c203767cf768c0bea5 "pdflatex"
-  "FLMguide.bbl" 1772039875.03891 11291 e568687229834170d40cf58eb624c08a "bibtex FLMguide"
-  "FLMguide.tex" 1772558690.92498 42424 8ac021670ec38f41d80f6a7ffa7e8e14 ""
+  "FLMguide.aux" 1772559825.14329 22176 68e3f9e28c490f9a7775369664c0443e "pdflatex"
+  "FLMguide.bbl" 1772559613.69554 11291 e568687229834170d40cf58eb624c08a "bibtex FLMguide"
+  "FLMguide.tex" 1772559820.79993 42710 6ee93c1cc390dcd3c14ffb73afde906a ""
   "JFM-FLM_Au.cls" 1769697170.82871 77883 3c186eafc5523bfaca542e040d306b68 ""
   "figures/cone_analysis/shade_bar.png" 1769696573.23852 12580 9ec8f090eb380560bd30e041056ea613 ""
   "figures/cone_analysis/time_by_etoh_90.png" 1769696573.24186 129601 2f3cc93c8a57a02841a0f48030b47eca ""

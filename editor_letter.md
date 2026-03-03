@@ -1,14 +1,20 @@
-# Letter to the editor 
+# Info for Editor's Letter + Extra Notes
 
-#### Note to Dr. Kreplak
-* Example form a JFM article from 2026:
-     * There are theoretical arguments (Ruelle Reference Ruelle1979; Crisanti et al. Reference Crisanti, Jensen, Vulpiani and Paladin1993; Ge, Rolland & Vassilicos Reference Ge, Rolland and Vassilicos2023) and computational...
-* When my latex template from JFM gives me:
-     * ...such as hand drawing Cho & Priya (2011), however...
-* Is this okay for the manuscript? Should I add brackets around the citations? But then it would be "hand drawing (Cho & Priya (2011))" which seems awkward with the double parentheses.
+### Notes on the Manuscript
+* Citation style:
+    * Example form a JFM article from 2026:
+         * There are theoretical arguments (Ruelle Reference Ruelle1979; Crisanti et al. Reference Crisanti, Jensen, Vulpiani and Paladin1993; Ge, Rolland & Vassilicos Reference Ge, Rolland and Vassilicos2023) and computational ...
+    * When my latex template from JFM gives me:
+         * ... such as hand drawing Cho & Priya (2011), however ...
+    * Is this okay for the manuscript? Should I add brackets around the citations? But then it would be "hand drawing (Cho & Priya (2011))" which seems awkward with the double parentheses.
+* Sections for acknowledgments, funding disclosures, and conflict disclosures have been added.
+    * I wasn't sure exactly what to include
+    * If it's easier, you can send me the text and I can add that to the tex file and compile the pdf.
     
 
+### Potential Editors
 * **Jeff Morris**
+    * Would be my **first choice**.
     * Director, Levich Institute & Professor of Chemical Engineering, City College of New York
     * Recent paper on rheology of chocolate (experimental)
         * Title: Shear jamming and nonlinear rheology of chocolate suspensions

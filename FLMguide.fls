@@ -567,6 +567,7 @@ INPUT ./figures/panels/cod_figure.pdf
 INPUT figures/panels/cod_figure.pdf
 INPUT ./figures/panels/cod_figure.pdf
 INPUT ./figures/panels/cod_figure.pdf
+INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.tfm
 INPUT ./FLMguide.bbl
 INPUT ./FLMguide.bbl
 INPUT FLMguide.bbl
@@ -575,6 +576,9 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-ot1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-sc-ot1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-ot1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.tfm
+INPUT /usr/share/texmf-dist/fonts/vf/public/newtx/ntx-Bold-tlf-ot1.vf
+INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/txbmiaX.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1r.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/public/newtx/ntx-Regular-tlf-ot1.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/txmiaX.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-ot1r.tfm

@@ -52,7 +52,7 @@ In this study, we show that zein dissolved in ethanol-water mixtures can in fact
 
 \section{Experimental Methods}
 \paragraph*{Materials and Solution Preparation}
-zein powder from Sigma-Aldrich, with a molecular weight of 22 kDa, was used to prepare ethanol-water protein solutions one day prior to experimentation. Solutions were prepared by gradually adding zein to ethanol-water mixtures ($70$-$90$\% v/v ethanol in water) while stirring. The zein concentration ranged from 41\% to 57\% by total weight. Solutions were stored at $4^\circ$C for 24 hours, then stirred again to ensure all the zein was fully dissolved. Next, solutions were centrifuged at 4500 RCF for 20 minutes at $4^\circ$C to remove any air bubbles introduced into the solution by stirring. Finally, the solutions were left out for approximately 20 minutes before use to allow them to reach room temperature (22$^\circ$C). Collagen I peptides enzymatically extracted from Atlantic Cod fish skin was purchased from 3F Waste Recovery (Newfoundland, Canada). The peptides were provided as a freeze dried powder and a molecular weight between 2 and 5 kDa. The peptides were dissolved in pure water while stirring and stored at $4^\circ$C until use.
+Zein powder from Sigma-Aldrich, with a molecular weight of 22 kDa, was used to prepare ethanol-water protein solutions one day prior to experimentation. Solutions were prepared by gradually adding zein to ethanol-water mixtures ($70$-$90$\% v/v ethanol in water) while stirring. The zein concentration ranged from 41\% to 57\% by total weight. Solutions were stored at $4^\circ$C for 24 hours, then stirred again to ensure all the zein was fully dissolved. Next, solutions were centrifuged at 4500 RCF for 20 minutes at $4^\circ$C to remove any air bubbles introduced into the solution by stirring. Finally, the solutions were left out for approximately 20 minutes before use to allow them to reach room temperature (22$^\circ$C). Collagen I peptides enzymatically extracted from Atlantic Cod fish skin was purchased from 3F Waste Recovery (Newfoundland, Canada). The peptides were provided as a freeze dried powder and a molecular weight between 2 and 5 kDa. The peptides were dissolved in pure water while stirring and stored at $4^\circ$C until use.
 
 \paragraph*{Rheology}
 Solution viscosities were characterized using a TA HR10 Rheometer with a parallel plate geometry. A 1 mm gap was used for all measurements. Silicone oil was applied to the edges of the solution between the plates to prevent evaporation during measurements. The temperature was constant at 22$^\circ$C. For zein solutions, viscosity data were obtained from flow sweep tests, where a series of constant shear rates are applied and the resulting shear stresses are recorded. For cod collagen solutions, small amplitude oscillatory shear tests were used. For each sample, the range of shear rates was $0.01$ to $100$ s$^{-1}$ with 5 points per decade. The zero shear viscosity $\eta_0$ was calculated by fitting the measured viscosity as a function of shear rate to the Cross model $\eta(\dot{\gamma}) = \eta_{\infty} + \dfrac{\eta_0 - \eta_{\infty}}{1 + (K\dot{\gamma})^m}$ where $\eta_\infty$ is the infinite shear viscosity, $K$ is the cross constant (indicative of the onset shear thinning), and $m$ is the shear thinning index \cite{barnes_handbook_2000}. Fitting was achieved using non-linear least squares optimization and implemented with the \texttt{curve\_fit} function from the \texttt{scipy.optimize} module in Python. Additionally, peak hold tests were performed on a few zein solutions. The solutions were held at a constant shear rate between 1-100 s$^{-1}$ for 300 seconds while monitoring the apparent viscosity.
@@ -201,7 +201,7 @@ This suggests that TEVP behaviour may arise primarily at the liquid-air interfac
 
 Further insight into the mechanism stabilizing zein liquid bridges can be obtained by comparing to a well-understood polymer system such as dextran in water. For dextran, the transition from failure to success as a function of draw velocity is sharp: Weibull fitting yields a steep shape parameter of $k = 8.9$ and a midpoint scale parameter $v' = 0.37$~m/s, indicating a narrow transition between low and high success rates. Therefore, dextran solutions have a well-defined threshold velocity (over a fixed length of 10 cm) for fiber formation, beyond which success is highly probable. This provides both an accurate criterion for determining fiber formation, and insight into the entanglement mechanism of polymer fiber formation, where the polymer chains must be sufficiently entangled to withstand the stresses of drawing \cite{chowdhry_polymer_2021}. In contrast, zein solutions exhibit broader transitions. Weibull fits for the 70\%, 80\%, and 90\% ethanol conditions yield lower $k$ values of 1.2, 0.97, and 0.69, with corresponding $v'$ values of 0.047, 0.049, and 0.11~m/s. These lower shape parameters indicate that there is a more gradual increase in success rate with draw velocity for zein solutions. As a result, draw velocity is not a reliable predictor of fiber formation for zein solutions near $v'$. This lack of a well-defined time scale for zein fiber formation by contact drawing and the fact that structural recovery of a bulk zein solution showing TEVP character takes 100 seconds in the bulk points again to some kind of surface effect. Colby recently proposed that in polymer solutions, long-lasting liquid bridges are not stabilized by chain elongation as proposed by Dinic and Sharma \cite{dinic_macromolecular_2019} but by skin formation due to solvent evaporation \cite{colby_fiber_2023,okuzono_simple_2006}.
 
-figure~\ref{fig:skin} provides visual evidence of skin formation during contact drawing of a zein solution at a draw velocity of 10 mm/s. At $t = 1.90$ s, a sharp angled rupture appears along the bridge, revealing an inner liquid core. The distinct outer layer and sharp break are consistent with a solid-like skin forming at the surface. Subsequent frames show the liquid core being drawn into another filament after the skin ruptures. These observations support the interpretation of elastic failure as the rupture of a TEVP skin under tension. We hypothesize that if the skin forms too early during the drawing process, it will accumulate a high amount of stress, leading to failure. However, if it forms near the end of the drawing process, it will stabilize the bridge and enable fiber formation. This suggests that skin formation rate plays a critical role in determining if the fiber will break or stabilize. In the next section, we explore how skin formation may be controlling the thinning of the bridge leading to a long-lasting liquid bridge and fiber formation.
+Figure~\ref{fig:skin} provides visual evidence of skin formation during contact drawing of a zein solution at a draw velocity of 10 mm/s. At $t = 1.90$ s, a sharp angled rupture appears along the bridge, revealing an inner liquid core. The distinct outer layer and sharp break are consistent with a solid-like skin forming at the surface. Subsequent frames show the liquid core being drawn into another filament after the skin ruptures. These observations support the interpretation of elastic failure as the rupture of a TEVP skin under tension. We hypothesize that if the skin forms too early during the drawing process, it will accumulate a high amount of stress, leading to failure. However, if it forms near the end of the drawing process, it will stabilize the bridge and enable fiber formation. This suggests that skin formation rate plays a critical role in determining if the fiber will break or stabilize. In the next section, we explore how skin formation may be controlling the thinning of the bridge leading to a long-lasting liquid bridge and fiber formation.
 
 \begin{figure}[tbp]
     \centering
@@ -321,6 +321,28 @@ So far we have shown that contact drawing of 22 kDa zein solutions in a volatile
 
 \section{Conclusions}
 We demonstrate that low molecular weight proteins (zein: 22kDa and cod collagen peptides: 2-5 kDa) are capable of forming fibers by contact drawing. Unlike entangled high molecular weight polymer solutions (70-500kDa), where fiber formation is governed by reptation time, protein solution liquid bridges can stabilize through the formation of a solid-like skin that resists capillary thinning. Our results indicate that this stabilization mechanism is concentration and solvent dependent, with a narrow viscosity window enabling fiber formation by minimizing capillary and elastic failures. High-speed imaging reveals that the timing of skin formation governs the thinning dynamics and determines failure modes. This work broadens the applicability of contact drawing to protein solutions and suggests that skin formation is a robust and tunable mechanism for fiber fabrication in lower molecular weight systems.
+
+
+\begin{bmhead}[Acknowledgments]
+
+We acknowledge the use of facilities at Dalhousie University. 
+
+\end{bmhead}
+
+\begin{bmhead}[Funding Information]
+
+This work was supported by $\ldots$
+
+\end{bmhead}
+
+\begin{bmhead}[Conflict Disclosures]
+
+Authors declare that $\ldots$
+
+\end{bmhead}
+
+
+
 
 \bibliographystyle{jfm}
 \bibliography{references}
